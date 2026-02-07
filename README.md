@@ -3,7 +3,6 @@
 ✅ What is given?
 
 You have:
-
 1️⃣ An integer array
 Example:
 nums = [1, 12, -5, -6, 50, 3]
