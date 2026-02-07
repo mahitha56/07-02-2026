@@ -11,7 +11,6 @@ nums = [1, 12, -5, -6, 50, 3]
 k = 4
 ✅ What is a "contiguous subarray"?
 
-
 Contiguous = elements must be next to each other (no skipping).
 
 Examples for above array:
