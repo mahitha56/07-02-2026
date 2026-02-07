@@ -1,5 +1,6 @@
 # 07-02-2026
 #
+#theory
 #today i complete sura anna topics
 ✅ What is given?
 
