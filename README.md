@@ -30,7 +30,7 @@ Invalid:
 ✅ What do you need to find?
 Step 1:
 
-Pick subarrays of length k only
+Pick subarrays of length k only  
 
 Here k = 4, so length must be 4.
 
